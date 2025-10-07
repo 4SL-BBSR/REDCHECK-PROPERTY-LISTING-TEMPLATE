@@ -2204,7 +2204,7 @@ button {
 
 /* main_manu_2 start */
 .main_menu_2 {
-    background: var(--colorLightBg);
+    background: var(--colorWhite);
     top: 0;
 }
 
